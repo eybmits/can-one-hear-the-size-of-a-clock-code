@@ -19,9 +19,9 @@ that jump at random between states, from circadian clocks and molecular motors t
 keep time with fading oscillations, or rhythms. Their sharpness $Q$ is the ratio of frequency to decay
 rate. We find the count for such clocks: a network of $d$ states sustains
 
-$$
-N\,Q \;<\; \frac{2(d-1)}{\pi}
-$$
+```math
+N Q < \frac{2(d-1)}{\pi}
+```
 
 rhythms sharper than $Q$. All rhythms draw on one budget of states, and a few measured rhythms reveal how
 large a hidden clock must be.
