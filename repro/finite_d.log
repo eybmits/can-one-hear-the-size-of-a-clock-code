@@ -1,0 +1,22 @@
+== Q0 = 2.0: bound density 2 arccot(Q0)/pi = 0.2952
+   d=  100: best theta chain N=  15 (s=5, sh=0.15, a=0.2; median Q of counted pairs 2.34, spacing r=0.35); independent rings N=  16; ratio 0.938; Eq. (2) allows N < 29.2
+   d=  200: best theta chain N=  35 (s=5, sh=0.15, a=0.2; median Q of counted pairs 2.38, spacing r=0.36); independent rings N=  33; ratio 1.061; Eq. (2) allows N < 58.7
+   d=  400: best theta chain N=  78 (s=4, sh=0.08, a=0.5; median Q of counted pairs 2.08, spacing r=0.17); independent rings N=  66; ratio 1.182; Eq. (2) allows N < 117.8
+   d=  800: best theta chain N= 178 (s=4, sh=0.08, a=0.5; median Q of counted pairs 2.07, spacing r=0.17); independent rings N= 133; ratio 1.338; Eq. (2) allows N < 235.8
+   d= 1500: best theta chain N= 344 (s=4, sh=0.04, a=0.5; median Q of counted pairs 2.20, spacing r=0.09); independent rings N= 249; ratio 1.382; Eq. (2) allows N < 442.5
+== Q0 = 5.0: bound density 2 arccot(Q0)/pi = 0.1257
+   d=  100: best theta chain N=   6 (s=8, sh=0.01, a=0.2; median Q of counted pairs 8.77, spacing r=0.09); independent rings N=   6; ratio 1.000; Eq. (2) allows N < 12.4
+   d=  200: best theta chain N=  12 (s=8, sh=0.01, a=0.2; median Q of counted pairs 9.65, spacing r=0.10); independent rings N=  13; ratio 0.923; Eq. (2) allows N < 25.0
+   d=  400: best theta chain N=  24 (s=8, sh=0.01, a=0.2; median Q of counted pairs 9.84, spacing r=0.10); independent rings N=  26; ratio 0.923; Eq. (2) allows N < 50.1
+   d=  800: best theta chain N=  53 (s=12, sh=0.04, a=0.5; median Q of counted pairs 5.97, spacing r=0.24); independent rings N=  53; ratio 1.000; Eq. (2) allows N < 100.4
+   d= 1500: best theta chain N= 115 (s=11, sh=0.04, a=0.5; median Q of counted pairs 5.71, spacing r=0.23); independent rings N=  99; ratio 1.162; Eq. (2) allows N < 188.4
+== Q0 = 10.0: bound density 2 arccot(Q0)/pi = 0.0635
+   d=  100: best theta chain N=   3 (s=16, sh=0.01, a=0.2; median Q of counted pairs 15.03, spacing r=0.15); independent rings N=   3; ratio 1.000; Eq. (2) allows N < 6.3
+   d=  200: best theta chain N=   6 (s=16, sh=0.01, a=0.2; median Q of counted pairs 17.42, spacing r=0.17); independent rings N=   6; ratio 1.000; Eq. (2) allows N < 12.6
+   d=  400: best theta chain N=  12 (s=16, sh=0.01, a=0.2; median Q of counted pairs 19.12, spacing r=0.19); independent rings N=  12; ratio 1.000; Eq. (2) allows N < 25.3
+   d=  800: best theta chain N=  24 (s=16, sh=0.01, a=0.2; median Q of counted pairs 19.47, spacing r=0.19); independent rings N=  25; ratio 0.960; Eq. (2) allows N < 50.7
+   d= 1500: best theta chain N=  45 (s=20, sh=0.01, a=0.2; median Q of counted pairs 19.42, spacing r=0.19); independent rings N=  48; ratio 0.938; Eq. (2) allows N < 95.1
+== cycle affinity of dressed chains (eps = 3) vs independent rings at the same eps
+   s=8, sh=0.24, B=25 (d=200): N(Q>2.5) = 22; F_Sigma = 7800, F~_Sigma = 7270; independent rings with eps = 3: 22 x 10 states, F_Sigma = 660; Eq. (7): F_Sigma > 145
+   s=8, sh=0.24, B=45 (d=360): N(Q>2.5) = 42; F_Sigma = 24840, F~_Sigma = 21207; independent rings with eps = 3: 42 x 10 states, F_Sigma = 1260; Eq. (7): F_Sigma > 277
+   s=8, sh=0.24, B=90 (d=720): N(Q>2.5) = 87; F_Sigma = 98280, F~_Sigma = 61753; independent rings with eps = 3: 87 x 10 states, F_Sigma = 2610; Eq. (7): F_Sigma > 574
